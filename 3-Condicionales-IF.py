@@ -111,4 +111,6 @@ elif int(venta) > 300 and int(venta) < 500:
                 {cliente}
                 ${venta}
                 ${int(venta) - (int(venta) * 20 /100)} Precio con el 20% de descuento aplicado
-              """) 
+              """)
+else:
+    print("Usted ha gastado tanto que no tenemos forma de agradecerle. chauchis")

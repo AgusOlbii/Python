@@ -18,7 +18,7 @@ print("Hola! " + nombre + ", tu numero es: "+ str(numero))
 
 print(f"hola! {nombre}, tu numero es: {numero}")
 
-print (f"Hola!, {nombre}, tu numero de telefono es: {numero} y tu altura es: {estatura}")
+print (f"Hola! {nombre}, tu numero de telefono es: {numero} y tu altura es: {estatura}")
 
 
 
